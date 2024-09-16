@@ -1,7 +1,7 @@
 ### Hi, I’m Morsu Greeshma
 - 👩‍💻 Pursuing Computer Science Engineering at KMIT
 - 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on working Open Source Projects
+- 💞️ I’m looking to collaborate in Open Source Projects
 - 📫 How to reach me morsugreeshma@gmail.com
 <!---
 Greeshma855/Greeshma855 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
